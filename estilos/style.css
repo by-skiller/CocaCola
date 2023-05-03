@@ -56,6 +56,15 @@ aside#lata {
     margin-top: -30px;
    margin-left: 100px;
    margin-right: 250px;
+
+}
+
+.top {
+    flex-direction: column;
+    margin-left: 0px;
+    align-items: center;
+    margin: 0 auto;
+    text-align: center;
 }
 
 #logo2 {
